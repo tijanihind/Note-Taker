@@ -1,0 +1,33 @@
+Note Taker Application 📝
+Table of Contents
+Description
+Features
+Technologies Used
+Setup and Usage
+Contribution
+License
+Description
+The Note Taker is an application that allows users to write, save, and retrieve notes seamlessly. This application offers an interactive and user-friendly interface, making it easy to jot down thoughts, tasks, or any kind of notes.
+
+Features
+Landing Page: On accessing the application, users are greeted with a landing page containing a link to the notes section.
+
+Notes Page: The notes page showcases:
+
+A list of saved notes on the left.
+A section to write a new note on the right.
+A save icon to store the notes.
+A write icon to clear fields for a new note.
+Interactive UI:
+
+Upon writing a note, a save icon becomes visible.
+Saved notes can be viewed or edited by clicking on them.
+The write icon refreshes the note-taking section.
+Technologies Used
+Express.js: Powers the back-end, providing a robust set of features to facilitate routing and API interactions.
+
+JSON: Utilized for storing and retrieving the user notes, ensuring data persistence.
+
+Setup and Usage
+Prerequisites
+Node.js
